@@ -7,7 +7,8 @@
 PotSafe is a pothole detection system that uses image processing techniques to automatically detect locate determine the severity of potholes on roads. 
 The goal of this project is to develop an automated system that can detect potholes in real-time and alert authorities or maintenance crews to repair them, thereby improving road safety and reducing the cost of road maintenance.
 
-[PowerPoint Presentation](https://www.canva.com/design/DAFYPK2ob9A/4Vdlhqb3l4T-TpAnzGgBOQ/view?utm_content=DAFYPK2ob9A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[PowerPoint Presentation] 
+[Pitch Deck.pdf](https://github.com/ominema12/POTHOLE-DETECTION/files/15177530/Pitch.Deck.pdf)
 
 [Abstract for PotSafe](https://github.com/aryanraj2713/Potsafe/files/10529121/Abstract_PotSafe_.pdf)
 
