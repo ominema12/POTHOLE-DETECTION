@@ -9,7 +9,7 @@ The goal of this project is to develop an automated system that can detect potho
 
 [PowerPoint Presentation](https://www.canva.com/design/DAFYPK2ob9A/4Vdlhqb3l4T-TpAnzGgBOQ/view?utm_content=DAFYPK2ob9A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-[Abstract for PotSafe](https://github.com/aryanraj2713/Potsafe/files/10529121/Abstract_PotSafe_AryanRaj.pdf)
+[Abstract for PotSafe](https://github.com/aryanraj2713/Potsafe/files/10529121/Abstract_PotSafe_.pdf)
 
 [Trained Model Weights](https://drive.google.com/drive/folders/1OBmchgp7OJz5CD7YyHOAlMHewydoLSwZ?usp=share_link)
 
